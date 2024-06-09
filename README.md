@@ -1,1 +1,1 @@
-# Q-RELEASES-WTT-Armory-WilsonCombat
+WTT-Armory-WilsonCombat
